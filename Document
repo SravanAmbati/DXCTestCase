@@ -1,5 +1,6 @@
 # DXCTestCase
 Steps to run the given python program:
+Make sure python3 is installed. Then follow the below commands
  1) Open any IDE(Integrated Development Environment) i.e; Visual Studio or Pycharm or IDLE
  2) Open the python file provided in this repository in IDE
  3) Click on RUN
